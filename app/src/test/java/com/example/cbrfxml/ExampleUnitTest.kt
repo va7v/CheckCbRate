@@ -1,4 +1,4 @@
-package com.example.nytimesapp
+package com.example.cbrfxml
 
 import org.junit.Test
 
